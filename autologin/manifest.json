@@ -20,7 +20,8 @@
 				  "http://pilot.lms.ubc.ca/",
 				  "https://shibboleth2.id.ubc.ca/idp/Authn/UserPassword",
 				  "https://www.auth.cwl.ubc.ca/auth/login*",
-				  "http://elearning.ubc.ca/connect/"],
+				  "http://elearning.ubc.ca/connect/",
+				  "https://cas.id.ubc.ca/ubc-cas/*"],
       "js": ["redirect.js", "login.js"]
     }
   ]
